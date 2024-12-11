@@ -1,0 +1,8 @@
+#pragma once
+
+#define POINTING_DEVICE_CS_PIN GP17
+
+#define SPI_DRIVER SPID0
+#define SPI_SCK_PIN GP18
+#define SPI_MISO_PIN GP16
+#define SPI_MOSI_PIN GP19
